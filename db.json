@@ -1,1 +1,162 @@
-{"id":2526,"domain":{"id":37,"editorialPartnerCode":"","partnerCode":"","partnerName":"Eurosport","languageId":3,"languageName":"french","languageCode":"fr","languageFamilyId":0,"languageFamilyName":"default","brandId":0,"brandName":"eurosport","hostName":"int.eurosport.fr","url":"https://int.eurosport.fr"},"context":{"sport":{"id":57,"name":"Tennis","url":"https://int.eurosport.fr/tennis/"},"recurringEvent":{"id":581,"name":"Paris-Bercy","url":"https://int.eurosport.fr/tennis/paris-bercy/"},"season":{"id":97,"name":"2019"},"event":{"id":46065,"name":"Rolex Paris Masters"},"competition":{"id":10,"name":"ATP"},"discipline":{"id":5663,"name":"Simples"},"gender":{"id":1,"name":"Homme"},"match":{"id":1162871,"name":"Jérémy Chardy - Cristian Garín"},"round":{"id":5038,"name":"3e tour"}},"properties":[{"value":"match","id":21,"name":"DataLayer PageType"},{"value":"{matchstatus}","id":30,"name":"DataLayer EventStatus"},{"value":"False","id":14,"name":"AMP page"},{"value":"False","id":15,"name":"Instant Article page"},{"value":"news","id":18,"name":"DataLayer Product"},{"value":"news","id":19,"name":"DataLayer Service"},{"value":"eurosportfr","id":20,"name":"DataLayer Site"},{"value":"GTM-P5M6XK","id":23,"name":"GTM Id"},{"value":"eurosport.fr","id":25,"name":"AnalyticsSource"},{"value":"france","id":26,"name":"AnalyticsCountry"},{"value":"https://www.eurosportplayer.com","id":27,"name":"EurosportPlayerUrl"},{"value":"https://promo-fr.eurosportplayer.com","id":28,"name":"EurosportPlayerPromoUrl"},{"value":"fr","id":29,"name":"AdDomain"},{"value":"www.eurosport.fr","id":31,"name":"AdVideoDomain"},{"value":"//try.abtasty.com/1eca43072fecd802b56d79f8ce552810.js","id":32,"name":"AbTastyScriptUrl"},{"value":"allsports-undefined","id":33,"name":"AnalyticsSportEvent"}],"seo":{"title":"EN DIRECT / LIVE. Jérémy Chardy - Cristian Garín - Rolex Paris Masters - 31 octobre 2019 - Eurosport","description":"","keywords":"","h1":"EN DIRECT / LIVE. Jérémy Chardy - Cristian Garín - Rolex Paris Masters - 31 octobre 2019 - Eurosport"},"dataLayer":{"environment":"int","language_id":"3","partner_code":"","language_name":"french","product":"news","service":"news","profile":"jeremy-chardy-cristian-garin","page_type":"match","event_status":"post-event","site":"eurosportfr","page_name":"news:news:match:tennis:atp:paris-bercy:2019:jeremy-chardy-cristian-garin","family":"","sport":"tennis","competition":"atp","sport_event":"paris-bercy","season":"2019","round":"3rd-round","discipline":"singles","participants":"jeremy-chardy|cristian-garin","gender":"men","channel":"","topic":"","content_id":"1162871","sub_client_id":"","sub_status":"","tracking_country":"france","tracking_source":"eurosport.fr","provider":"eurosport","pub_date":"","pub_time":"","author":"","format":"","opinion":"0","perimeter":"web","login_status":"","user_id":"","page_videos":[]},"template":{"head":[],"body":{"tag":"body","attributes":{"class":"matchpage"},"children":[{"tag":"div","attributes":{"id":"wrapper"},"children":[{"tag":"header","attributes":{"id":"header"},"children":[{"properties":[{"id":-2113490103,"type":"string","value":"true"}],"id":-1221270899,"provider":"ets","type":"zone"}],"type":"tag"},{"tag":"nav","attributes":{"id":"nav"},"children":[],"type":"tag"},{"tag":"section","attributes":{"id":"content"},"children":[{"properties":[{"id":-836073830,"type":"string","value":"true"}],"id":613659487,"provider":"ets","type":"zone"},{"properties":[],"id":-1011834238,"provider":"ets","type":"zone"},{"properties":[],"id":1432735203,"provider":"ets","type":"zone"},{"properties":[],"id":1725735029,"provider":"ets","type":"zone"},{"properties":[],"id":-275827658,"provider":"ets","type":"zone"}],"type":"tag"},{"tag":"footer","attributes":{"id":"footer"},"children":[{"properties":[],"id":-1268861541,"provider":"ets","type":"zone"},{"properties":[],"id":-1693017210,"provider":"ets","type":"zone"},{"properties":[{"id":249939108,"type":"string","value":"https://quantcast.mgr.consensu.org/v14/cmp.js"}],"id":-1180620030,"provider":"ets","type":"zone"},{"properties":[],"id":-1423303725,"provider":"ets","type":"zone"},{"properties":[],"id":-1614582740,"provider":"ets","type":"zone"}],"type":"tag"}],"type":"tag"}],"type":"tag"},"headCss":[],"bodyJs":[],"id":59}}
+{
+  "id": 2526,
+  "domain": {
+    "id": 37,
+    "editorialPartnerCode": "",
+    "partnerCode": "",
+    "partnerName": "Eurosport",
+    "languageId": 3,
+    "languageName": "french",
+    "languageCode": "fr",
+    "languageFamilyId": 0,
+    "languageFamilyName": "default",
+    "brandId": 0,
+    "brandName": "eurosport",
+    "hostName": "int.eurosport.fr",
+    "url": "https://int.eurosport.fr"
+  },
+  "context": {
+    "sport": { "id": 57, "name": "Tennis", "url": "https://int.eurosport.fr/tennis/" },
+    "recurringEvent": { "id": 581, "name": "Paris-Bercy", "url": "https://int.eurosport.fr/tennis/paris-bercy/" },
+    "season": { "id": 97, "name": "2019" },
+    "event": { "id": 46065, "name": "Rolex Paris Masters" },
+    "competition": { "id": 10, "name": "ATP" },
+    "discipline": { "id": 5663, "name": "Simples" },
+    "gender": { "id": 1, "name": "Homme" },
+    "match": { "id": 1162871, "name": "Jérémy Chardy - Cristian Garín" },
+    "round": { "id": 5038, "name": "3e tour" }
+  },
+  "properties": [
+    { "value": "match", "id": 21, "name": "DataLayer PageType" },
+    { "value": "{matchstatus}", "id": 30, "name": "DataLayer EventStatus" },
+    { "value": "False", "id": 14, "name": "AMP page" },
+    { "value": "False", "id": 15, "name": "Instant Article page" },
+    { "value": "news", "id": 18, "name": "DataLayer Product" },
+    { "value": "news", "id": 19, "name": "DataLayer Service" },
+    { "value": "eurosportfr", "id": 20, "name": "DataLayer Site" },
+    { "value": "GTM-P5M6XK", "id": 23, "name": "GTM Id" },
+    { "value": "eurosport.fr", "id": 25, "name": "AnalyticsSource" },
+    { "value": "france", "id": 26, "name": "AnalyticsCountry" },
+    { "value": "https://www.eurosportplayer.com", "id": 27, "name": "EurosportPlayerUrl" },
+    { "value": "https://promo-fr.eurosportplayer.com", "id": 28, "name": "EurosportPlayerPromoUrl" },
+    { "value": "fr", "id": 29, "name": "AdDomain" },
+    { "value": "www.eurosport.fr", "id": 31, "name": "AdVideoDomain" },
+    { "value": "//try.abtasty.com/1eca43072fecd802b56d79f8ce552810.js", "id": 32, "name": "AbTastyScriptUrl" },
+    { "value": "allsports-undefined", "id": 33, "name": "AnalyticsSportEvent" }
+  ],
+  "seo": {
+    "title": "EN DIRECT / LIVE. Jérémy Chardy - Cristian Garín - Rolex Paris Masters - 31 octobre 2019 - Eurosport",
+    "description": "",
+    "keywords": "",
+    "h1": "EN DIRECT / LIVE. Jérémy Chardy - Cristian Garín - Rolex Paris Masters - 31 octobre 2019 - Eurosport"
+  },
+  "dataLayer": {
+    "environment": "int",
+    "language_id": "3",
+    "partner_code": "",
+    "language_name": "french",
+    "product": "news",
+    "service": "news",
+    "profile": "jeremy-chardy-cristian-garin",
+    "page_type": "match",
+    "event_status": "post-event",
+    "site": "eurosportfr",
+    "page_name": "news:news:match:tennis:atp:paris-bercy:2019:jeremy-chardy-cristian-garin",
+    "family": "",
+    "sport": "tennis",
+    "competition": "atp",
+    "sport_event": "paris-bercy",
+    "season": "2019",
+    "round": "3rd-round",
+    "discipline": "singles",
+    "participants": "jeremy-chardy|cristian-garin",
+    "gender": "men",
+    "channel": "",
+    "topic": "",
+    "content_id": "1162871",
+    "sub_client_id": "",
+    "sub_status": "",
+    "tracking_country": "france",
+    "tracking_source": "eurosport.fr",
+    "provider": "eurosport",
+    "pub_date": "",
+    "pub_time": "",
+    "author": "",
+    "format": "",
+    "opinion": "0",
+    "perimeter": "web",
+    "login_status": "",
+    "user_id": "",
+    "page_videos": []
+  },
+  "template": {
+    "head": [],
+    "body": {
+      "tag": "body",
+      "attributes": { "class": "matchpage" },
+      "children": [
+        {
+          "tag": "div",
+          "attributes": { "id": "wrapper" },
+          "children": [
+            {
+              "tag": "header",
+              "attributes": { "id": "header" },
+              "children": [
+                {
+                  "properties": [{ "id": -2113490103, "type": "string", "value": "true" }],
+                  "id": -1221270899,
+                  "provider": "ets",
+                  "type": "zone"
+                }
+              ],
+              "type": "tag"
+            },
+            { "tag": "nav", "attributes": { "id": "nav" }, "children": [], "type": "tag" },
+            {
+              "tag": "section",
+              "attributes": { "id": "content" },
+              "children": [
+                {
+                  "properties": [{ "id": -836073830, "type": "string", "value": "true" }],
+                  "id": 613659487,
+                  "provider": "ets",
+                  "type": "zone"
+                },
+                { "properties": [], "id": -1011834238, "provider": "ets", "type": "zone" },
+                { "properties": [], "id": 1432735203, "provider": "ets", "type": "zone" },
+                { "properties": [], "id": 1725735029, "provider": "ets", "type": "zone" },
+                { "properties": [], "id": -275827658, "provider": "ets", "type": "zone" }
+              ],
+              "type": "tag"
+            },
+            {
+              "tag": "footer",
+              "attributes": { "id": "footer" },
+              "children": [
+                { "properties": [], "id": -1268861541, "provider": "ets", "type": "zone" },
+                { "properties": [], "id": -1693017210, "provider": "ets", "type": "zone" },
+                {
+                  "properties": [
+                    { "id": 249939108, "type": "string", "value": "https://quantcast.mgr.consensu.org/v14/cmp.js" }
+                  ],
+                  "id": -1180620030,
+                  "provider": "ets",
+                  "type": "zone"
+                },
+                { "properties": [], "id": -1423303725, "provider": "ets", "type": "zone" },
+                { "properties": [], "id": -1614582740, "provider": "ets", "type": "zone" }
+              ],
+              "type": "tag"
+            }
+          ],
+          "type": "tag"
+        }
+      ],
+      "type": "tag"
+    },
+    "headCss": [],
+    "bodyJs": [],
+    "id": 59
+  }
+}
